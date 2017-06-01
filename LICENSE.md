@@ -1,2 +1,2 @@
 
-Copyright (C) 2017 Wilson Tovar
+Copyright (C) 2017 José Pollo & Wilson Tovar
